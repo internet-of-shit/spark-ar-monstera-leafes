@@ -1,5 +1,5 @@
 # Monstera Reveal Filter
-<img src="https://github.com/internet-of-shit/spark-ar-ai-object-detection/blob/master/filtericon.png" height="140">
+<img src="https://github.com/internet-of-shit/spark-ar-monstera-leafs/blob/master/filtericon.png" height="140">
 
 Reveal-Effect with Monstera Leafs for Instagram made with SparkAR.
 
