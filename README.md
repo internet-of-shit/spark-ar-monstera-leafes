@@ -1,5 +1,7 @@
-# Spark AR Project Template
-Comprehensive template for spark-ar projects. Include your models, images and even use npm and webpack to build your scripts. 
+# Monstera Reveal Filter
+<img src="https://github.com/internet-of-shit/spark-ar-ai-object-detection/blob/master/filtericon.png" height="140">
+
+Reveal-Effect with Monstera Leafs for Instagram made with SparkAR.
 
 ## Handy Links
 [Spark AR Docs](https://sparkar.facebook.com/ar-studio/learn/documentation/guides/)
